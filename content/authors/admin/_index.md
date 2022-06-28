@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Washington
+    url: https://www.washington.edu/
 education:
   courses:
     - course: MPH in Global Health | Sexual and Reproductive Health and Population
