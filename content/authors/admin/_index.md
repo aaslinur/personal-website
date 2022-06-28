@@ -1,7 +1,7 @@
 ---
 title: Aasli Abdi Nur, MPH
 role: Ph.D. Student | Sociology and Demographic Methods
-avatar_filename: aasli_headshot.png
+avatar_filename: avatar.png
 bio: My research interests include fertility, family planning, and population
   dynamics.
 interests:
