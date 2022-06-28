@@ -28,9 +28,10 @@ draft: false
 featured: false
 tags:
   - Arab
-  - Depression. Mental Health
+  - Depression
+  - Mental Health
   - Perinatal
-  - Social Support.
+  - Social Support
 image:
   filename: featured
   focal_point: Smart
