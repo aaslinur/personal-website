@@ -30,7 +30,7 @@ organizations:
     url: https://www.washington.edu/
 education:
   courses:
-    - course: PhD Student in Sociology and Demographic Methods
+    - course: PhD Student in Sociology, Expected 2024
       institution: University of Washington
     - course: MPH in Global Health
       institution: Emory University Rollins School of Public Health
