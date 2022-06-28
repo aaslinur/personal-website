@@ -29,10 +29,9 @@ organizations:
     url: https://www.washington.edu/
 education:
   courses:
-    - course: PhD Student
+    - course: PhD Student in Sociology and Demographic Methods
       institution: University of Washington
-    - course: MPH in Global Health | Sexual and Reproductive Health and Population
-        Studies
+    - course: MPH in Global Health
       institution: Emory University Rollins School of Public Health
       year: 2017
     - course: BA in Anthropology and Arabic
