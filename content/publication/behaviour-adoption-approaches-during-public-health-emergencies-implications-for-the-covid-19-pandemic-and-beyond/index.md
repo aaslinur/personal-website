@@ -1,6 +1,6 @@
 ---
-title: "Behaviour adoption approaches during public health emergencies:
-  implications for the COVID-19 pandemic and beyond"
+title: Behaviour adoption approaches during public health emergencies
+subtitle: " Implications for the COVID-19 pandemic and beyond"
 publication_types:
   - "2"
 authors:
