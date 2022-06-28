@@ -14,16 +14,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/aasli_an
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/0000-0003-2856-0176
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aaslinur
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/aasli-abdi-nur
 organizations:
   - name: University of Washington
     url: https://www.washington.edu/
@@ -33,7 +33,7 @@ education:
         Studies
       institution: Emory University Rollins School of Public Health
       year: 2017
-    - course: BA in Anthropology and Arabic (Double Major)
+    - course: BA in Anthropology and Arabic (Dual Major)
       institution: Washington University in St. Louis
       year: 2013
 email: ""
