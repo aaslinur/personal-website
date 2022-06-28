@@ -44,6 +44,8 @@ tags:
   - Covid-19
   - Public Health Emergencies
   - Conceptual Framework
+categories:
+  - example
 slides: ""
 image:
   filename: ""
