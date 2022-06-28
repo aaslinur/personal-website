@@ -29,15 +29,13 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MPH in Global Health | Sexual and Reproductive Health and Population
+        Studies
+      institution: Emory University Rollins School of Public Health
+      year: 2017
+    - course: BA in Anthropology and Arabic (Double Major)
+      institution: Washington University in St. Louis
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
