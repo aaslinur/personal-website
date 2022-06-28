@@ -41,7 +41,6 @@ draft: false
 featured: false
 tags:
   - Systematic Review
-  - Depression
   - Mental Health
   - Pregnancy
   - Middle East
