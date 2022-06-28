@@ -44,6 +44,8 @@ tags:
   - Mental Health
   - Pregnancy
   - Middle East
+  - Human Resources
+  - Economic Resources
   - Women’s Empowerment
 image:
   filename: featured
