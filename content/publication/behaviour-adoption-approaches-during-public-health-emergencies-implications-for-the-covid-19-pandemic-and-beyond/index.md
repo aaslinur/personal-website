@@ -37,7 +37,7 @@ abstract: Human behaviour will continue to play an important role as the world
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-06-28T15:50:29.826Z
