@@ -5,9 +5,10 @@ avatar_filename: aasli_headshot.jpg
 bio: My research interests include fertility, family planning, and population
   dynamics.
 interests:
+  - Gender
   - Fertility
   - Family Planning
-  - and Population Dynamics
+  - Population Dynamics
 social:
   - icon: envelope
     icon_pack: fas
