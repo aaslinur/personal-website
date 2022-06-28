@@ -3,7 +3,7 @@ title: Human and economic resources for empowerment and pregnancy-related mental
   health in the Arab Middle East
 subtitle: A Systematic Review
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Laurie James-Hawkins
   - Eman Shaltout
@@ -50,5 +50,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-06-28T16:49:32.910Z
+date: 2018-05-02T16:49:00.000Z
 ---
