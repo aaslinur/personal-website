@@ -20,6 +20,7 @@ authors:
   - Helena Nordenstedt
   - Avi J Hakim
 doi: 10.1136/bmjgh-2020-004450
+publication: BMJ Global Health
 abstract: Human behaviour will continue to play an important role as the world
   grapples with public health threats. In this paper, we draw from the emerging
   evidence on behaviour adoption during diverse public health emergencies to
@@ -37,6 +38,13 @@ abstract: Human behaviour will continue to play an important role as the world
   and social measures during health emergencies.
 draft: false
 featured: true
+tags:
+  - Behavior Adoption
+  - Public Health
+  - Covid-19
+  - Public Health Emergencies
+  - Conceptual Framework
+slides: ""
 image:
   filename: ""
   focal_point: Smart
