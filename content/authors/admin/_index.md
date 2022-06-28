@@ -2,8 +2,11 @@
 title: Aasli Abdi Nur, MPH
 role: Ph.D. Student | Sociology and Demographic Methods
 avatar_filename: avatar.png
-bio: My research interests include fertility, family planning, and population
-  dynamics.
+bio: Aasli Abdi Nur is a social and behavioral health scientist with experience
+  in research and evaluation. She is currently a Ph.D. student in the
+  [Department of Sociology](https://soc.washington.edu/) at the University of
+  Washington, where she also serves as a fellow with the [Center for Studies in
+  Demography and Ecology](https://csde.washington.edu/) at UW.
 interests:
   - Gender
   - Fertility
@@ -45,6 +48,6 @@ highlight_name: true
 ---
 Aasli is a social and behavioral health scientist with experience in research and evaluation. She is currently a Ph.D. student in the [Department of Sociology](https://soc.washington.edu/) at the University of Washington, where she also serves as a fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at UW. 
 
-Aasli's research interests include gender, fertility, population dynamics, and demographic methods, specifically the methodological approaches used to measure fertility declines and family planning behavior as well as the challenges with their application in different socio-cultural contexts. Her current research applies data analysis techniques like bibliometric analysis and topic modeling to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in *BMJ Global Health*, *Women and Birth*, and the *Archives of Women's Mental Health*.
+Aasli's research interests include gender, fertility, and demographic methods, specifically the methodological approaches used to measure fertility declines and family planning behavior as well as the challenges with their application in different socio-cultural contexts. Her current research applies data analysis techniques like bibliometric analysis and topic modeling to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in *BMJ Global Health*, *Women and Birth*, and the *Archives of Women's Mental Health*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
