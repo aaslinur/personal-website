@@ -1,8 +1,9 @@
 ---
 title: Aasli Abdi Nur
 role: Ph.D. Student | Sociology and Demographic Methods
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: aasli_headshot.jpg
+bio: My research interests include fertility, family planning, and population
+  dynamics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,9 +42,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Aasli is a social and behavioral health scientist with experience in research and evaluation. She is currently a Ph.D. student in the Department of Sociology at the University of Washington, where she also serves as a fellow with the Center for Studies in Demography and Ecology at UW. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aasli's research interests include gender, fertility, and demographic methods, specifically the methodological approaches used to measure fertility declines and family planning behavior as well as the challenges with their application. Her current research applies data analysis techniques like bibliometric analysis and topic modeling to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in *BMJ Global Health*, *Women and Birth*, and the *Archives of Women's Mental Health*.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aasli holds an MPH from the Rollins School of Public Health at Emory University and a BA from Washington University in St. Louis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
