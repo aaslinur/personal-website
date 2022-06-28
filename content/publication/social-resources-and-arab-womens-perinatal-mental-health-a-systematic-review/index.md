@@ -27,8 +27,7 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - Arab
-  - Depression
+  - Middle East
   - Mental Health
   - Perinatal
   - Social Support
