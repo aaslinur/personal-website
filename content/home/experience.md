@@ -13,9 +13,9 @@ experience:
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Test
+        * Test
+        * Test
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
