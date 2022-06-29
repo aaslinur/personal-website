@@ -27,7 +27,7 @@ item:
     organization_url: https://mch.emory.edu/
     title: Graduate Certificate in Maternal and Child Health
     url: ""
-widget_id: Certificates
+widget_id: Concentration in Social Sciences
 headless: true
 weight: 50
 title: Accomplish&shy;ments
