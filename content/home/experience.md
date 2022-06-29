@@ -13,9 +13,9 @@ experience:
     description: |-2
         Responsibilities include:
         
-        * Test2
-        * Test2
-        * Test2
+        * Test3
+        * Test3
+        * Test3
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
