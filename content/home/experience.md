@@ -6,7 +6,7 @@ experience:
   - title: Graduate Research Assistant
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
-    company_logo: org-w
+    company_logo: org-gc
     location: Washington
     date_start: 2021-01-01
     date_end: ""
