@@ -3,10 +3,10 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
+  - title: Graduate Research Assistant
+    company: University of Washington, Center for Studies in Demography and Ecology
+    company_url: "https://csde.washington.edu/"
+    company_logo: org-w
     location: California
     date_start: 2021-01-01
     date_end: ""
