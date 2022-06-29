@@ -3,12 +3,12 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: [https://www.coursera.org](https://csss.uw.edu/index.php/academics/phd-tracks)
+  - certificate_url: https://csss.uw.edu/index.php/academics/phd-tracks
     date_end: ""
     date_start: 2021-01-25
     description: ""
     organization: Center for Statistics and the Social Sciences
-    organization_url: [https://www.coursera.org](https://csss.uw.edu/)
+    organization_url: https://csss.uw.edu/
     title: Special Concentration in Social Statistics
     url: ""
   - certificate_url: https://www.edx.org
