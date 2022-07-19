@@ -10,8 +10,8 @@ item:
     description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences
 =======
   - certificate_url: [https://www.coursera.org](https://csss.uw.edu/index.php/academics/phd-tracks)
-    date_end: ""
-    date_start: 2021-01-25
+    date_end: 2022-06-01
+    date_start: ""
     description: ""
 >>>>>>> parent of c2a6ceb (Update accomplishments.md)
     organization: Center for Statistics and the Social Sciences
