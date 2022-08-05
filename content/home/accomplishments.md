@@ -14,22 +14,20 @@ item:
     organization_url: https://csde.washington.edu/
     title: Graduate Certificate in Demographic Methods
     url: https://csde.washington.edu/training/demographic-certificate/
-  - certificate_url: https://csss.uw.edu/index.php/academics/phd-tracks
-    date_end: ""
+  - date_end: ""
     date_start: 2022-06-01
     description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences.
     organization: University of Washington | Center for Statistics and the Social Sciences
     organization_url: https://csss.uw.edu/
     title: Special Concentration in Social Statistics
-    url: ""
-  - certificate_url: https://mch.emory.edu/programs/mch-certificate/
-    date_end: ""
+    url: https://csss.uw.edu/index.php/academics/phd-tracks
+  - date_end: ""
     date_start: 2017-05-01
     description: Rigorous and competitive certificate program intended for graduate students who are committed to the development and promotion of the Maternal and Child Health (MCH) field.
     organization: Emory University | Rollins School of Public Health
     organization_url: https://mch.emory.edu/
     title: Graduate Certificate in Maternal and Child Health
-    url: ""
+    url: https://mch.emory.edu/programs/mch-certificate/
 widget_id: Concentration in Social Statistics
 headless: true
 weight: 50
