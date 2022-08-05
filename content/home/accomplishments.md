@@ -31,7 +31,7 @@ item:
 widget_id: Concentration in Social Statistics
 headless: true
 weight: 50
-title: Accomplish&shy;ments
+title: Certificates
 subtitle: null
 design:
   columns: "2"
