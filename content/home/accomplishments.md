@@ -19,7 +19,7 @@ item:
     description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences.
     organization: University of Washington | Center for Statistics and the Social Sciences
     organization_url: https://csss.uw.edu/
-    title: Special Concentration in Social Statistics
+    title: Concentration in Social Statistics
     url: https://csss.uw.edu/index.php/academics/phd-tracks
   - date_end: ""
     date_start: 2017-05-01
