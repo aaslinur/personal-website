@@ -3,14 +3,14 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://csde.washington.edu/training/demographic-certificate/
     date_end: ""
     date_start: 2022-06-10
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    description: Comprehensive training program that provides an academic pathway to advanced population research at UW. The program courses integrate a variety of disciplines and core demography, a professional development seminar series, a weekly research seminar, and opportunities for research collaboration with faculty affiliates.
+    organization: Center for Studies in Demography and Ecology
+    organization_url: https://csde.washington.edu/
+    title: Graduate Certificate in Demographic Methods
+    url: ""
     organization: Center for Studies in Demography and Ecology 
     organization_url: https://csde.washington.edu/
     title: Graduate Certificate in Demographic Methods
@@ -18,7 +18,7 @@ item:
   - certificate_url: https://csss.uw.edu/index.php/academics/phd-tracks
     date_end: ""
     date_start: 2021-01-25
-    description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences
+    description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences.
     organization: Center for Statistics and the Social Sciences
     organization_url: https://csss.uw.edu/
     title: Special Concentration in Social Statistics
@@ -26,7 +26,7 @@ item:
   - certificate_url: https://mch.emory.edu/programs/mch-certificate/
     date_end: 2017-05-01
     date_start: 2016-01-01
-    description: Rigorous and competitive certificate program intended for students who are committed to the development and promotion of the Maternal and Child Health (MCH) field
+    description: Rigorous and competitive certificate program intended for graduate students who are committed to the development and promotion of the Maternal and Child Health (MCH) field.
     organization: Emory University Rollins School of Public Health
     organization_url: https://mch.emory.edu/
     title: Graduate Certificate in Maternal and Child Health
