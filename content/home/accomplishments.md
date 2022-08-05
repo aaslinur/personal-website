@@ -19,7 +19,7 @@ item:
     description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences.
     organization: University of Washington | Center for Statistics and the Social Sciences
     organization_url: https://csss.uw.edu/
-    title: Concentration in Social Statistics
+    title: Special Concentration in Social Statistics
     url: https://csss.uw.edu/index.php/academics/phd-tracks
   - date_end: ""
     date_start: 2017-05-01
@@ -33,7 +33,7 @@ item:
     description: Concentration in the Hubert Department of Global Health addressing current domestic and global issues in sexual and reproductive health and population studies using quantitative, qualitative, and epidemiological methods.
     organization: Emory University | Rollins School of Public Health
     organization_url: https://www.sph.emory.edu/departments/gh/index.html
-    title: Concentration in Sexual and Reproductive Health and Population Studies
+    title: Departmental Concentration in Sexual and Reproductive Health and Population Studies
     url: https://www.sph.emory.edu/departments/gh/concentrations/sexual-reproductive/
 widget_id: Concentration in Social Statistics
 headless: true
