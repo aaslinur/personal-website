@@ -33,7 +33,7 @@ item:
     description: Concentration in the Hubert Department of Global Health addressing current domestic and global issues in sexual and reproductive health and population studies using quantitative, qualitative, and epidemiological methods.
     organization: Emory University | Rollins School of Public Health
     organization_url: https://www.sph.emory.edu/departments/gh/index.html
-    title: Graduate Certificate in Maternal and Child Health
+    title: Concentration in Sexual and Reproductive Health and Population Studies
     url: https://www.sph.emory.edu/departments/gh/concentrations/sexual-reproductive/
 widget_id: Concentration in Social Statistics
 headless: true
