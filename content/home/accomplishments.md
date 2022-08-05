@@ -3,8 +3,7 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: https://csde.washington.edu/training/demographic-certificate/
-    date_end: ""
+  - date_end: ""
     date_start: 2022-06-10
     description: Comprehensive training program providing an academic pathway to advanced population research at UW. Courses integrate a variety of disciplines and core demography, a professional development seminar series, a weekly research seminar, and opportunities for research collaboration with faculty affiliates.
     organization: Center for Studies in Demography and Ecology
