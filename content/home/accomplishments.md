@@ -25,14 +25,6 @@ item:
     organization_url: https://csss.uw.edu/
     title: Special Concentration in Social Statistics
     url: ""
-  - certificate_url: https://mch.emory.edu/programs/mch-certificate/
-    date_end: 2017-05-01
-    date_start: ""
-    description: Rigorous and competitive certificate program intended for students who are committed to the development and promotion of the Maternal and Child Health (MCH) field
-    organization: Emory University Rollins School of Public Health
-    organization_url: https://mch.emory.edu/
-    title: Graduate Certificate in Maternal and Child Health
-    url: ""
 widget_id: Concentration in Social Statistics
 headless: true
 weight: 50
