@@ -25,6 +25,16 @@ item:
     organization_url: https://csss.uw.edu/
     title: Special Concentration in Social Statistics
     url: ""
+  - certificate_url: https://csss.uw.edu/index.php/academics/phd-tracks
+    date_end: ""
+    date_start: 2021-01-25
+    description: ""
+    date_start: 2022-06-01
+    description: Advanced training in social statistics preparing graduate students for independent research and teaching careers in quantitative social sciences
+    organization: Center for Statistics and the Social Sciences
+    organization_url: https://csss.uw.edu/
+    title: Special Concentration in Social Statistics
+    url: ""
 widget_id: Concentration in Social Statistics
 headless: true
 weight: 50
