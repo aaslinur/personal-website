@@ -6,7 +6,7 @@ item:
   - certificate_url: https://csde.washington.edu/training/demographic-certificate/
     date_end: ""
     date_start: 2022-06-10
-    description: Comprehensive training program that provides an academic pathway to advanced population research at UW. The program courses integrate a variety of disciplines and core demography, a professional development seminar series, a weekly research seminar, and opportunities for research collaboration with faculty affiliates.
+    description: Comprehensive training program providing an academic pathway to advanced population research at UW. Courses integrate a variety of disciplines and core demography, a professional development seminar series, a weekly research seminar, and opportunities for research collaboration with faculty affiliates.
     organization: Center for Studies in Demography and Ecology
     organization_url: https://csde.washington.edu/
     title: Graduate Certificate in Demographic Methods
