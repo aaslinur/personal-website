@@ -3,19 +3,18 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Graduate Research Assistant
+  - title: Predoctoral Research Associate
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
     location: Washington
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: 2021-09-01
+    date_end: 2022-06-01
     description: |-2
-        Responsibilities include:
+        Projects include:
         
-        * Test3
-        * Test3
-        * Test3
+        * Universal Access: Development of a Comprehensive Measurement
+        * Project: Children, COVID-19, and its Consequences (The “Triple C” Project)
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
