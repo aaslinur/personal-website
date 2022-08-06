@@ -11,18 +11,16 @@ experience:
     date_start: 2021-09-01
     date_end: 2022-06-01
     description: |-2
-        Projects include:
-        
+        Projects:
         * Universal Access: Development of a Comprehensive Measurement
-        * Project: Children, COVID-19, and its Consequences (The “Triple C” Project)
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Children, COVID-19, and its Consequences (The “Triple C” Project)
+  - title: Research Assistant
+    company: University of Washington, Center for Studies in Demography and Ecology
     company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-uw
+    location: Washington
+    date_start: 2021-09-01
+    date_end: 2022-06-01
 widget_id: Research and Evaluation Experience
 headless: true
 weight: 40
