@@ -37,7 +37,7 @@ abstract: Human behaviour will continue to play an important role as the world
   design, implementation, tracking and evaluation of comprehensive public health
   and social measures during health emergencies.
 draft: false
-featured: true
+featured: false
 tags:
   - Behavior Adoption
   - Public Health
