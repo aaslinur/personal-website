@@ -50,3 +50,6 @@ image:
   caption: ""
 date: 2022-09-28T17:25:49.696Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
