@@ -21,7 +21,7 @@ doi: ""
 publication: In Press, *Journal of Global Health*
 publication_short: "*Journal of Global Health*"
 abstract: >
-  *Background*: Reported COVID-19 epidemiological data may influence the
+  **Background** Reported COVID-19 epidemiological data may influence the
   stringency of COVID-19 policies, but the potential effects are not understood.
   We aimed to understand the associations of new COVID-19 cases and deaths with
   policy stringency globally and regionally.
