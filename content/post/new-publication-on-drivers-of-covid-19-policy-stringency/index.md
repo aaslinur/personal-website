@@ -1,12 +1,16 @@
 ---
 title: New publication on drivers of COVID-19 policy stringency
 date: 2022-09-25T19:00:45.052Z
+summary: "Drivers of COVID-19 policy stringency in 175 countries and
+  territories: COVID-19 cases and deaths, gross domestic products per capita,
+  and health expenditures. *Journal of Global Health*. 2022. In-press."
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: ""
 ---
 Jalloh MF, Zeebari Z, Nur SA, Prybylski D, **Nur AA**, Hakim JA, Winters M, Steinhardt LC, Gatei W, Omer SB, Brewer NT, Nordenstedt H. Drivers of COVID-19 policy stringency in 175 countries and territories: COVID-19 cases and deaths, gross domestic products per capita, and health expenditures. *Journal of Global Health*. 2022. In-press.
 
