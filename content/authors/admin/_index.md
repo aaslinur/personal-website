@@ -50,4 +50,4 @@ highlight_name: true
 
 Aasli's research interests include gender, fertility, and demographic methods, specifically the methodological approaches used to measure fertility declines and family planning behavior as well as the challenges with their application in different socio-cultural contexts. Her current research applies data analysis techniques like bibliometric analysis and topic modeling to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *Archives of Women's Mental Health*.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
