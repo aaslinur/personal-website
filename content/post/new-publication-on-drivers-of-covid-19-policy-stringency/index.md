@@ -8,9 +8,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Jalloh MF, Zeebari Z, Nur SA, Prybylski D, Nur AA, Hakim JA, Winters M, Steinhardt LC, Gatei W, Omer SB, Brewer NT, Nordenstedt H. Drivers of COVID-19 policy stringency in 175 countries and territories: COVID-19 cases and deaths, gross domestic products per capita, and health expenditures. *Journal of Global Health*. 2022. In-press.
+#### Jalloh MF, Zeebari Z, Nur SA, Prybylski D, Nur AA, Hakim JA, Winters M, Steinhardt LC, Gatei W, Omer SB, Brewer NT, Nordenstedt H. Drivers of COVID-19 policy stringency in 175 countries and territories: COVID-19 cases and deaths, gross domestic products per capita, and health expenditures. *Journal of Global Health*. 2022. In-press.
 
-**Background** Reported COVID-19 epidemiological data may influence the stringency of COVID-19 policies, but the potential effects are not understood. We aimed to understand the associations of new COVID-19 cases and deaths with policy stringency globally and regionally.
+**A﻿bstract: \*Background\*** Reported COVID-19 epidemiological data may influence the stringency of COVID-19 policies, but the potential effects are not understood. We aimed to understand the associations of new COVID-19 cases and deaths with policy stringency globally and regionally.
 
 **Methods** We modeled the marginal effects of new COVID-19 cases and deaths on policy stringency (scored 0–100) in 175 countries and territories, adjusting for gross domestic product (GDP), per capita and health expenditure (% of GDP), and public expenditure on health.  Time periods examined were March–August 2020, September 2020–February 2021, and March–August 2021.
 
