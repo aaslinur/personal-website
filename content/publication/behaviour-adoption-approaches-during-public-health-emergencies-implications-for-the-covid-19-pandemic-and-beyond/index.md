@@ -53,3 +53,6 @@ image:
   preview_only: false
 date: 2021-01-29T16:50:00.000Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
