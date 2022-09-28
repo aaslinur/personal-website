@@ -36,7 +36,7 @@ abstract: >-
 
   **Conclusions** The stringency of COVID-19 policies was more strongly associated with new deaths than new cases. Our findings demonstrate the need for enhanced mortality surveillance to ensure policy alignment during health emergencies. Countries that invest less in health or have a lower public expenditure on health may be inclined to enact more stringent policies. This new empirical understanding of COVID-19 policy drivers can help public health officials anticipate and shape policy responses in future health emergencies.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
