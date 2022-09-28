@@ -51,5 +51,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: >-
+  {{% callout note %}}
+
+  Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
+  {{% /callout %}}
 date: 2018-05-02T16:49:00.000Z
 ---
