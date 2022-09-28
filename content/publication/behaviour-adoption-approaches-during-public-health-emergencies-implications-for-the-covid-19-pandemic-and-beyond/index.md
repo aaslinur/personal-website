@@ -39,10 +39,11 @@ abstract: Human behaviour will continue to play an important role as the world
 draft: false
 featured: false
 tags:
-  - Behavior Adoption
+  - Global Health
   - Public Health
   - Covid-19
   - Public Health Emergencies
+  - Behavior Adoption
   - Conceptual Framework
 categories:
   - example
