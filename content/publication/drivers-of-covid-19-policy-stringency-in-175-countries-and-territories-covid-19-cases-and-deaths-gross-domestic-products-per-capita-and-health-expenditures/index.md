@@ -1,9 +1,10 @@
 ---
-title: "Drivers of COVID-19 policy stringency in 175 countries and territories: "
-subtitle: "COVID-19 cases and deaths, gross domestic products per capita, and
-  health expenditures "
+title: "Drivers of COVID-19 policy stringency in 175 countries and territories:
+  COVID-19 cases and deaths, gross domestic products per capita, and health
+  expenditures "
+subtitle: ""
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Mohamed F. Jalloh
   - Zangin Zeebari
