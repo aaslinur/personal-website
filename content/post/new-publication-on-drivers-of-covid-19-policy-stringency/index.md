@@ -1,5 +1,5 @@
 ---
-title: "New Publication on drivers of COVID-19 policy stringency "
+title: "New publication on the drivers of COVID-19 policy stringency "
 date: 2022-09-25T19:00:45.052Z
 draft: false
 featured: false
