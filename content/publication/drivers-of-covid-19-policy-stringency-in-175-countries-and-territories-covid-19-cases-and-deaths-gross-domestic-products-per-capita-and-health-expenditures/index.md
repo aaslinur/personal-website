@@ -1,7 +1,7 @@
 ---
 title: "Drivers of COVID-19 policy stringency in 175 countries and territories:
   COVID-19 cases and deaths, gross domestic products per capita, and health
-  expenditures "
+  expenditures"
 subtitle: ""
 publication_types:
   - "2"
