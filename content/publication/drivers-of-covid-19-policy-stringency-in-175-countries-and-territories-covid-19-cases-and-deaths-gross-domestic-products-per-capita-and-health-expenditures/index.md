@@ -19,7 +19,7 @@ authors:
   - Helena Nordenstedt
 doi: ""
 publication: In Press, *Journal of Global Health*
-publication_short: "*J Glob Health*"
+publication_short: "*Journal of Global Health*"
 draft: false
 featured: true
 image:
