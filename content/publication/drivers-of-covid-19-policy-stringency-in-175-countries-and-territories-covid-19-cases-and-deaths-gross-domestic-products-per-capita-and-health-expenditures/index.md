@@ -9,7 +9,7 @@ authors:
   - Zangin Zeebari
   - Sophia A. Nur
   - Dimitri Prybylski
-  - Aasli A. Nur
+  - admin
   - Avi J. Hakim
   - Maike Winters
   - Laura C. Steinhardt
@@ -17,6 +17,9 @@ authors:
   - Saad B. Omer
   - Noel T. Brewer
   - Helena Nordenstedt
+doi: ""
+publication: In Press, *Journal of Global Health*
+publication_short: "*J Glob Health*"
 draft: false
 featured: true
 image:
