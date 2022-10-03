@@ -20,8 +20,8 @@ feature:
     icon_pack: fab
     name: R
 #   description: 90%
-  - icon: chart-mixed
-    icon_pack: fas
+  - icon: fa-chart-mixed
+    icon_pack: fa-solid
     name: Evaluation
 #   description: 100%
   - icon: r-project
