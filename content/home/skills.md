@@ -21,7 +21,7 @@ feature:
     name: R
     description: Research
   - icon: chart-bar
-    icon_pack: fab
+    icon_pack: fas
     name: Evaluation
 #   description: 100%
   - icon: r-project
