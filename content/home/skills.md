@@ -20,8 +20,8 @@ feature:
     icon_pack: fab
     name: R
     description: Research
-  - icon: fa-chart-mixed
-    icon_pack: far
+  - icon: magnifying-glass-chart
+    icon_pack: fab
     name: Evaluation
 #   description: 100%
   - icon: r-project
