@@ -28,7 +28,7 @@ social:
     link: https://github.com/aaslinur
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/aasli-abdi-nur
+    link: https://www.linkedin.com/in/aasli-abdi-nur
 organizations:
   - name: University of Washington
     url: https://www.washington.edu/
