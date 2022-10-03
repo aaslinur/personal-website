@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/aasli_an
   - icon: orcid
-    icon_pack: academicons
+    icon_pack: ai
     link: https://orcid.org/0000-0003-2856-0176
   - icon: github
     icon_pack: fab
