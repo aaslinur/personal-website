@@ -19,15 +19,15 @@ feature:
   - icon: r-project
     icon_pack: fab
     name: R
-#   description: 90%
-  - icon: fa-chart-mixed
-    icon_pack: fa-solid
+   description: Research
+  - icon: chart-mixed
+    icon_pack: fas
     name: Evaluation
 #   description: 100%
   - icon: r-project
     icon_pack: fab
     name: R
-#   description: 90%
+    description: Data Analysis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
