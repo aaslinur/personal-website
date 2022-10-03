@@ -20,8 +20,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/aasli_an
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: orcid
+    icon_pack: academicons
     link: https://orcid.org/0000-0003-2856-0176
   - icon: github
     icon_pack: fab
