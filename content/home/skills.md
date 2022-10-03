@@ -20,7 +20,7 @@ feature:
     icon_pack: fab
     name: R
     description: Research
-  - icon: magnifying-glass-chart
+  - icon: chart-bar
     icon_pack: fab
     name: Evaluation
 #   description: 100%
