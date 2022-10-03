@@ -17,15 +17,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/aasli_an
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/aasli_an
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2856-0176
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/aaslinur
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/aaslinur
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aasli-abdi-nur
