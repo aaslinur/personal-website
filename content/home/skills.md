@@ -20,7 +20,7 @@ feature:
     icon_pack: fab
     name: R
     description: Research
-  - icon: chart-mixed
+  - icon: fa-solid fa-chart-mixed
     icon_pack: fab
     name: Evaluation
 #   description: 100%
