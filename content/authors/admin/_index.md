@@ -23,9 +23,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2856-0176
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/aaslinur
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/aaslinur
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aasli-abdi-nur
