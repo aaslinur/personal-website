@@ -9,7 +9,7 @@ experience:
     company_logo: org-uw
     location: Washington
     date_start: 2021-06-01
-    date_end:
+    date_end: ""
     description: |-2
         Projects:
         * Universal Access to Family Planning: Development of a Comprehensive Measurement
