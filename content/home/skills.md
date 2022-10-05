@@ -16,16 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - icon_pack: fas
   - icon: magnifying-glass-chart
-    icon_pack: far
     name: Research
 #   description: Research
-  - icon: chart-bar
-    icon_pack: fas
+  - icon_pack: fas
+    icon: chart-bar
     name: Evaluation
 #   description: 100%
-  - icon: r-project
-    icon_pack: fab
+  - icon_pack: fab
+    icon: r-project
     name: Data Analysis
 #   description: Data Analysis
 # Uncomment to use emoji icons.
