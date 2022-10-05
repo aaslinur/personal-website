@@ -14,7 +14,7 @@ experience:
         Projects:
         * Universal Access to Family Planning: Development of a Comprehensive Measurement
         * Children, COVID-19, and its Consequences (The “Triple C” Project)
-   - title: Predoctoral Research Associate
+  - title: Predoctoral Research Associate
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
