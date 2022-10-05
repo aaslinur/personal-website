@@ -16,8 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon_pack: fas
-    icon: magnifying-glass-chart
+  - icon_pack: far
+    icon: magnifying-glass
     name: Research
 #   description: Research
   - icon_pack: fas
