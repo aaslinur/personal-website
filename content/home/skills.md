@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: magnifying-glass-chart
-    icon_pack: fab
+    icon_pack: far
     name: Research
 #   description: Research
   - icon: chart-bar
