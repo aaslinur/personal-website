@@ -9,7 +9,7 @@ experience:
     company_logo: org-uw
     location: Washington
     date_start: 2021-06-01
-    date_end: Present
+    date_end: 2023-09-01
     description: |-2
         Projects:
         * Universal Access to Family Planning: Development of a Comprehensive Measurement
@@ -19,14 +19,14 @@ experience:
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
     location: Washington
-    date_start: 2021-09-01
-    date_end: 2022-06-01
+    date_start: 2020-09-01
+    date_end: 2021-06-01
     description: |-2
         Projects:
         * Universal Access to Family Planning: Development of a Comprehensive Measurement
         * Children, COVID-19, and its Consequences (The “Triple C” Project)
   - title: Research Assistant
-    company: University of Washington, Center for Studies in Demography and Ecology
+    company: Emory University, Rollins School of Public Health
     company_url: ""
     company_logo: emory
     location: Washington
