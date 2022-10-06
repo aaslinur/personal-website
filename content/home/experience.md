@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Fellow
+  - title: Fellow, Data Science and Demography Training Program
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
@@ -11,7 +11,7 @@ experience:
     date_start: 2021-06-01
     date_end: 2022-08-01
     description: |-2
-        NIH T32 Data Science and Demography Training Fellowship
+        NIH T32 
   - title: Predoctoral Research Associate
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
