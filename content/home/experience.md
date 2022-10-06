@@ -22,13 +22,6 @@ experience:
 #      Projects:
 #        * Universal Access to Family Planning: Development of a Comprehensive Measurement
 #        * Children, COVID-19, and its Consequences (The “Triple C” Project)
-  - title: Research Assistant
-    company: Emory University, Rollins School of Public Health
-    company_url: "https://www.sph.emory.edu/"
-    company_logo: emory
-#    location: Washington 
-    date_start: 2017-05-01
-    date_end: 2015-09-01
   - title: Senior Manager, Program Evaluation and Systems
     company: Peer Health Exhange, Inc.
     company_url: "https://www.peerhealthexchange.org/"
@@ -36,6 +29,13 @@ experience:
 #   location: Washington
     date_start: 2017-07-01
     date_end: 2020-07-01
+  - title: Program Evaluation Intern, Improving Public Health Management for Action
+    company: Center for Disease Control & Prevention (CDC)
+    company_url: "https://www.cdc.gov/globalhealth/healthprotection/impact/index.html"
+    company_logo: PHE
+#   location: Washington
+    date_start: 2017-05-01
+    date_end: 2016-09-01
   - title: Research Assistant
     company: Emory University, Rollins School of Public Health
     company_url: "https://www.sph.emory.edu/"
