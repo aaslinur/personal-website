@@ -9,7 +9,7 @@ experience:
     company_logo: org-uw
 #   location: Washington
     date_start: 2021-06-01
-    date_end: 2023-08-01
+    date_end: 2022-08-01
     description: |-2
         NIH T32 Data Science and Demography Training Fellowship
   - title: Predoctoral Research Associate
