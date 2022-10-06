@@ -26,20 +26,20 @@ content:
 
   # Contact details (edit or remove options as required)
   email: aasli@uw.edu
-  phone: 888 888 88 88
+# phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 211 Savery Hall
+    city: Seattle
+    region: WA
+    postcode: '98195'
     country: United States
     country_code: US
-  appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/aasli_an'
 
 
 design:
