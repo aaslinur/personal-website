@@ -34,8 +34,8 @@ experience:
     company_url: "https://www.cdc.gov/globalhealth/healthprotection/impact/index.html"
     company_logo: PHE
 #   location: Washington
-    date_start: 2017-05-01
-    date_end: 2016-09-01
+    date_start: 2016-09-01
+    date_end: 2017-05-01
   - title: Research Assistant
     company: Emory University, Rollins School of Public Health
     company_url: "https://www.sph.emory.edu/"
