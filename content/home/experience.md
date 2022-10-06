@@ -27,7 +27,7 @@ experience:
     company: Emory University, Rollins School of Public Health
     company_url: "https://www.sph.emory.edu/"
     company_logo: emory
-#   location: Washington
+    location: Washington 
     date_start: 2017-05-01
     date_end: 2015-09-01
 - title: Research Assistant
