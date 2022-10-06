@@ -32,7 +32,7 @@ experience:
   - title: Program Evaluation Intern, Improving Public Health Management for Action
     company: Center for Disease Control & Prevention (CDC)
     company_url: "https://www.cdc.gov/globalhealth/healthprotection/impact/index.html"
-    company_logo: PHE
+    company_logo: CDC
 #   location: Washington
     date_start: 2016-09-01
     date_end: 2017-05-01
