@@ -7,7 +7,7 @@ experience:
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
-#   location: Washington
+    location: Washington
     date_start: 2021-06-01
     date_end: 2022-08-01
     description: |-2
@@ -16,7 +16,7 @@ experience:
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
-#   location: Washington
+    location: Washington
     date_start: 2020-09-01
     date_end: 2021-06-01
     description: |-2
@@ -30,7 +30,7 @@ experience:
     location: Washington 
     date_start: 2017-05-01
     date_end: 2015-09-01
-- title: Research Assistant
+  - title: Research Assistant
     company: Emory University, Rollins School of Public Health
     company_url: "https://www.sph.emory.edu/"
     company_logo: emory
