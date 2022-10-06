@@ -29,6 +29,13 @@ experience:
 #    location: Washington 
     date_start: 2017-05-01
     date_end: 2015-09-01
+  - title: Senior Manager, Program Evaluation and Systems
+    company: Peer Health Exhange, Inc.
+    company_url: "https://www.peerhealthexchange.org/"
+    company_logo: PHE
+#   location: Washington
+    date_start: 2017-07-01
+    date_end: 2020-08-01
   - title: Research Assistant
     company: Emory University, Rollins School of Public Health
     company_url: "https://www.sph.emory.edu/"
