@@ -8,7 +8,7 @@ experience:
     company_url: "https://www.gatesfoundation.org/our-work/programs/global-health/institute-for-disease-modeling"
     company_logo: GF
 #   location: Washington
-    date_start: 2021-10-31
+    date_start: 2022-10-31
     date_end: 2023-09-01
 #   description: |-2
   - title: NIH T-32 Fellow - Data Science and Demography Training Program
