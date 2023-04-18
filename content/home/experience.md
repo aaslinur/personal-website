@@ -3,13 +3,21 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Fellow, Data Science and Demography Training Program
+  - title: Research Scientist - Women’s, Reproductive, Infant, and Child Health (WRICH) 
+    company: Institute for Disease Modeling, Bill & Melinda Gates Foundation
+    company_url: "https://www.gatesfoundation.org/our-work/programs/global-health/institute-for-disease-modeling"
+    company_logo: GF
+#   location: Washington
+    date_start: 2021-10-31
+    date_end: 2023-09-01
+#   description: |-2
+  - title: NIH T-32 Fellow - Data Science and Demography Training Program
     company: University of Washington, Center for Studies in Demography and Ecology
     company_url: "https://csde.washington.edu/"
     company_logo: org-uw
 #   location: Washington
     date_start: 2021-06-01
-    date_end: 2022-08-01
+    date_end: 2023-08-01
 #   description: |-2
   - title: Predoctoral Research Associate
     company: University of Washington, Center for Studies in Demography and Ecology
@@ -22,14 +30,14 @@ experience:
 #      Projects:
 #        * Universal Access to Family Planning: Development of a Comprehensive Measurement
 #        * Children, COVID-19, and its Consequences (The “Triple C” Project)
-  - title: Senior Manager, Program Evaluation and Systems
+  - title: Senior Manager - Program Evaluation and Systems
     company: Peer Health Exhange, Inc.
     company_url: "https://www.peerhealthexchange.org/"
     company_logo: PHE
 #   location: Washington
     date_start: 2017-07-01
     date_end: 2020-07-01
-  - title: Program Evaluation Intern, Improving Public Health Management for Action
+  - title: Program Evaluation Intern - Improving Public Health Management for Action
     company: Center for Disease Control & Prevention (CDC)
     company_url: "https://www.cdc.gov/globalhealth/healthprotection/impact/index.html"
     company_logo: CDC
