@@ -1,6 +1,6 @@
 ---
 title: Aasli Abdi Nur
-role: Ph.D. Student | Sociology and Demographic Methods
+role: Ph.D. Candidate | Sociology and Demographic Methods
 avatar_filename: avatar.png
 bio: Aasli Abdi Nur, MPH, is a social and behavioral health scientist with
   experience in research and evaluation. She is currently a Ph.D. student in the
