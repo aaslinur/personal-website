@@ -2,11 +2,7 @@
 title: Aasli Abdi Nur
 role: Ph.D. Candidate | Sociology and Demographic Methods
 avatar_filename: avatar.png
-bio: Aasli Abdi Nur, MPH, is a social and behavioral health scientist with
-  experience in research and evaluation. She is currently a Ph.D. student in the
-  [Department of Sociology](https://soc.washington.edu/) at the University of
-  Washington, where she also serves as a fellow with the [Center for Studies in
-  Demography and Ecology](https://csde.washington.edu/) at UW.
+bio: Aasli Abdi Nur, MPH, a social demographer with experience in research and evaluation. She is currently a Ph.D. Candidate in the [Department of Sociology](https://soc.washington.edu/) at the University of Washington, where she also serves as a Demography and Data Science Fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at UW.
 interests:
   - Gender
   - Fertility
