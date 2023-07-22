@@ -4,7 +4,7 @@ title: "Managing and Minimizing Online Survey Questionnaire Fraud: Lessons from
 publication_types:
   - "2"
 authors:
-  - Aasli Abdi Nur
+  - admin
   - Christine Leibbrand
   - Sara R Curran
   - Elizabeth Votruba-Drzal
