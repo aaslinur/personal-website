@@ -6,7 +6,7 @@ summary: "Jalloh MF, Zeebari Z, Nur SA, Prybylski D, **Nur AA**, Hakim JA,
   of COVID-19 policy stringency in 175 countries and territories: COVID-19 cases
   and deaths, gross domestic products per capita, and health
   expenditures. *Journal of Global Health*. 2022. In-press."
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
