@@ -29,10 +29,10 @@ draft: false
 featured: true
 tags:
   - Covid-19
-  - families
-  - online survey
-  - fraud detection
-  - lessons learned
+  - Families
+  - Online Surveys
+  - Fraud Detection
+  - Lessons Learned
 image:
   filename: featured
   focal_point: Smart
