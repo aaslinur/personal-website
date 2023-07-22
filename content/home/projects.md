@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Agent-based Modeling
 subtitle: ''
 
 content:
@@ -25,11 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: National Dynamics
       tag: '*'
-    - name: Deep Learning
+    - name: National Dyba
       tag: Deep Learning
-    - name: Other
+    - name: Research Project
       tag: Demo
 
 design:
