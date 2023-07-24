@@ -1,6 +1,6 @@
 ---
 widget: experience
-active: true
+active: false
 date_format: Jan 2006
 experience:
   - title: Research Scientist - Women’s, Reproductive, Infant, and Child Health (WRICH) 
