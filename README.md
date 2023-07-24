@@ -1,15 +1,7 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+This repository is used to manage my [personal website](https://aasli.info). The webstite was designed using the [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic).
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+___________________________________________________________________________________________________________________________________________________________
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+Aasli Abdi Nur, MPH, is a social demographer with experience in research and evaluation. She is currently a Ph.D. Candidate in the Department of Sociology at the University of Washington, where she also serves as a Demography and Data Science Fellow with the Center for Studies in Demography and Ecology at UW. 
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
-
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
-
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+Aasli’s research interests center on gender, fertility, and family planning, with a particular focus on women’s contraceptive autonomy in the Global South. Her dissertation project examines the measures and methodological approaches used to study fertility change and family planning behavior as well as the challenges with their application in high fertility settings. She also conducts research that applies data analysis techniques like topic modeling and bibliometric analysis to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*.
