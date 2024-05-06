@@ -2,11 +2,9 @@
 title: Aasli Abdi Nur
 role: Ph.D. Candidate | Sociology and Demographic Methods
 avatar_filename: avatar.png
-bio: Aasli Abdi Nur, MPH, a social demographer with experience in research and
-  evaluation. She is currently a Ph.D. Candidate in the [Department of
-  Sociology](https://soc.washington.edu/) at the University of Washington, where
-  she also serves as a Demography and Data Science Fellow with the [Center for
-  Studies in Demography and Ecology](https://csde.washington.edu/) at UW.
+bio: Aasli Abdi Nur, MPH, is currently a Ph.D. Candidate in the [Department of
+  Sociology](https://soc.washington.edu/) at the University of Washington and trainee
+  with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at UW.
 interests:
   - Gender
   - Fertility
@@ -43,8 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Aasli Abdi Nur**, MPH, is a social demographer with experience in research and evaluation. She is currently a Ph.D. Candidate in the [Department of Sociology](https://soc.washington.edu/) and trainee with [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at the University of Washington.
+**Aasli Abdi Nur**, MPH, is a a Ph.D. Candidate in the [Department of Sociology](https://soc.washington.edu/) and former Graduate Fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at the University of Washington.
 
-Aasli's research interests center on gender, fertility, and family planning, with a particular focus on women’s contraceptive autonomy in the Global South. Her dissertation project examines the measures and methodological approaches used to study fertility change and family planning behavior as well as the challenges with their application in high fertility settings. She also conducts research that applies data analysis techniques like topic modeling and bibliometric analysis to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
+Her research interests center on gender, fertility, and family planning, with a particular focus on women’s contraceptive autonomy in the Global South. Her dissertation project examines the measures and methodological approaches used to study fertility change and family planning behavior as well as the challenges with their application. She also conducts research that applies data analysis techniques like topic modeling and bibliometric analysis to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
