@@ -41,7 +41,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Aasli Abdi Nur**, MPH, is a a Ph.D. Candidate in the [Department of Sociology](https://soc.washington.edu/) and former Graduate Fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at the University of Washington.
+**Aasli Abdi Nur**, MPH, is a Ph.D. Candidate in the [Department of Sociology](https://soc.washington.edu/) and former Graduate Fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/) at the University of Washington.
 
 Her research interests center on gender, fertility, and family planning, with a particular focus on women’s contraceptive autonomy in the Global South. Her dissertation project examines the measures and methodological approaches used to study fertility change and family planning behavior as well as the challenges with their application. She also conducts research that applies data analysis techniques like topic modeling and bibliometric analysis to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
 
