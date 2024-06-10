@@ -9,7 +9,7 @@ experience:
     company_logo: GF
 #   location: Washington
     date_start: 2022-10-31
-    date_end: 2023-09-01
+    date_end: 2024-04-01
 #   description: |-2
   - title: NIH T-32 Fellow - Data Science and Demography Training Program
     company: University of Washington, Center for Studies in Demography and Ecology
