@@ -1,6 +1,6 @@
 ---
 title: Aasli Abdi Nur
-role: Ph.D. Candidate | Sociology and Demographic Methods
+role: Social and Computational Demographer
 avatar_filename: avatar.png
 bio: Aasli Abdi Nur, PhD, MPH, is a social and computational demographer. She
   received her PhD in [Sociology](https://soc.washington.edu/) from the
