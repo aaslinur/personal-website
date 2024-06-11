@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Sociology
       institution: University of Washington
-      year: 2021
+      year: 2024
     - course: MPH in Global Health
       institution: Emory University Rollins School of Public Health
       year: 2017
