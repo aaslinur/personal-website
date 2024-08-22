@@ -27,7 +27,7 @@ social:
     link: /#contact
 organizations:
   - name: University of Oxford
-    url: ox.ac.uk
+    url: https://www.ox.ac.uk/
 education:
   courses:
     - course: PhD in Sociology
