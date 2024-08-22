@@ -1,16 +1,17 @@
 ---
 title: Aasli Abdi Nur
-role: Social and Computational Demographer
+role: Postdoctoral Research Fellow in Computational Demography
 avatar_filename: avatar.png
-bio: Aasli Abdi Nur, PhD, MPH, is a social and computational demographer. She
-  received her PhD in [Sociology](https://soc.washington.edu/) from the
-  University of Washington.
+bio: Aasli Abdi Nur, PhD, MPH, is a Postdoctoral Research Fellow in the
+  [Department of Sociology](https://www.sociology.ox.ac.uk) at the University of
+  Oxford.
 interests:
   - Gender
   - Fertility
   - Family Planning
+  - Global Health
   - Population Dynamics
-  - Demographic Methods
+  - Computational Demographic
 social:
   - icon: orcid
     icon_pack: ai
@@ -25,8 +26,8 @@ social:
     icon_pack: fas
     link: /#contact
 organizations:
-  - name: University of Washington
-    url: https://www.washington.edu/
+  - name: University of Oxford
+    url: https://www.https://www.ox.ac.uk/
 education:
   courses:
     - course: PhD in Sociology
