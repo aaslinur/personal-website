@@ -7,9 +7,8 @@ bio: Aasli Abdi Nur, PhD, MPH, is a Postdoctoral Research Fellow in the
   Oxford.
 interests:
   - Gender
+  - Kinship
   - Fertility
-  - Family Planning
-  - Global Health
   - Population Dynamics
   - Computational Demographic
 social:
@@ -43,9 +42,13 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Aasli Abdi Nur**, PhD, MPH, is a recent graduate of the [Department of Sociology](https://soc.washington.edu/) at the University of Washington. During her time at UW, she served as a [graduate fellow](https://csde.washington.edu/people/fellows/) and trainee with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/). 
+**Aasli Abdi Nur**, PhD, MPH, is a Postdoctoral Research Fellow in the [Department of Sociology](https://www.sociology.ox.ac.uk/) at the University of Oxford specializing in Computational Demography. She currently works on the Connecting Generations project with Professor Ridhi Kashyap, studying demographic changes and their implications for kinship and intergenerational overlap, care, and support. In addition to her departmental appointment, she is also a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/academics/).
 
-Her research interests center on gender, fertility, and family planning, with a particular focus on women’s contraceptive autonomy in the Global South. Her dissertation project examined the measures and methodological approaches used to study fertility change and family planning behavior as well as the challenges with their application. She also conducts research that applies data analysis techniques like topic modeling and bibliometric analysis to published literature on the determinants of family planning behavior to understand the state of knowledge in the field. 
+Aasli’s research uses computational and demographic methods explore two main areas of interest. The first focuses on the use individual-level modelling approaches to study gender, fertility, and family dynamics across the life course. The second examines epistemic inequalities in the production and dissemination of scientific knowledge and their impact on demographic research.
+
+Prior to joining Oxford, Aasli worked as a Research Scientist in the Institute for Disease Modelling at the Bill & Melinda Gates Foundation. She received her PhD in Sociology from the University of Washington, where she served as a graduate fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/). Her dissertation project used computational social science methods to provide a rigorous examination of the research and metrics that currently make up the foundation of global family planning policies and goal setting
+
+Aasli holds an MPH from the Rollins School of Public Health at Emory University and a BA from Washington University in St. Louis.
 
 Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
 
