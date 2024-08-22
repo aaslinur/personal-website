@@ -35,9 +35,9 @@ content:
  #   country: United States
  #   country_code: US
 # appointment_url: 'https://calendly.com'
-  contact_links:
-    - name: BlueSky
-      link: 'https://bsky.app/profile/aasli.bsky.social'
+#  contact_links:
+#    - name: BlueSky
+#      link: 'https://bsky.app/profile/aasli.bsky.social'
 
 
 design:
