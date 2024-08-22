@@ -46,8 +46,8 @@ highlight_name: true
 
 Aasli’s research uses computational and demographic methods explore two main areas of interest. The first focuses on the use individual-level modelling approaches to study gender, fertility, and family dynamics across the life course. The second examines epistemic inequalities in the production and dissemination of scientific knowledge and their impact on demographic research.
 
-Prior to joining Oxford, Aasli worked as a Research Scientist in the Institute for Disease Modelling at the Bill & Melinda Gates Foundation. She received her PhD in Sociology from the University of Washington, where she served as a graduate fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/). Her dissertation project used computational social science methods to provide a rigorous examination of the research and metrics that currently make up the foundation of global family planning policies and goal setting.
+Prior to joining Oxford, Aasli worked as a Research Scientist in the Institute for Disease Modelling at the Bill & Melinda Gates Foundation. She received her PhD in Sociology from the University of Washington, where she served as a graduate fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/). Aasli holds an MPH from the Rollins School of Public Health at Emory University and a BA from Washington University in St. Louis. 
 
-Aasli holds an MPH from the Rollins School of Public Health at Emory University and a BA from Washington University in St. Louis. Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
+Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
