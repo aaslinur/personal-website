@@ -25,15 +25,15 @@ content:
   #    captcha: true
 
   # Contact details (edit or remove options as required)
-  email: aasli@uw.edu
+  email: aasli.nur@sociology.ox.ac.uk
 # phone: 888 888 88 88
-  address:
-    street: 211 Savery Hall
-    city: Seattle
-    region: WA
-    postcode: '98195'
-    country: United States
-    country_code: US
+ # address:
+ #   street: 211 Savery Hall
+ #   city: Seattle
+ #   region: WA
+ #   postcode: '98195'
+ #   country: United States
+ #   country_code: US
 # appointment_url: 'https://calendly.com'
   contact_links:
     - name: BlueSky
