@@ -11,7 +11,7 @@ interests:
   - Kinship
   - Fertility
   - Population Dynamics
-  - Computational Demographic
+  - Computational Demography
 social:
   - icon: orcid
     icon_pack: ai
