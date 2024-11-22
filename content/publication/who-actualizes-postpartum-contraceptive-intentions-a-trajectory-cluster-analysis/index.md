@@ -4,8 +4,7 @@ title: Who actualizes postpartum contraceptive intentions? A trajectory cluster
 publication_types:
   - "2"
 authors:
-  - Michelle L. O’Brien and
-  - admin
+  - Michelle L. O’Brien and admin
 author_notes: []
 doi: https://doi.org/10.1186/s12978-024-01899-7
 publication: Reproductive Health
