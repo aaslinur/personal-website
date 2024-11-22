@@ -2,7 +2,7 @@
 title: Aasli Abdi Nur
 role: Postdoctoral Research Fellow in Computational Demography
 avatar_filename: avatar.png
-bio: Aasli Abdi Nur, PhD, MPH, is a Postdoctoral Research Fellow in the
+bio: Aasli is a Postdoctoral Research Fellow in the
   [Department of Sociology](https://www.sociology.ox.ac.uk/people/aasli-abdi-nur) 
   and [Leverhulme Centre for Demographic Science](https://www.demography.ox.ac.uk/people/aasli-abdi-nur)
   at the University of Oxford.
