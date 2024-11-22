@@ -5,7 +5,7 @@ publication_types:
   - "0"
   - "2"
 authors:
-  - Michelle L. O’Brien & Aasli Abdi Nur
+  - Michelle L. O’Brien & admin
 doi: https://doi.org/10.1186/s12978-024-01899-7
 publication: Reproductive Health
 abstract: Contraceptive intention is an important woman-centered indicator for
