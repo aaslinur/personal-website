@@ -2,10 +2,10 @@
 title: Who actualizes postpartum contraceptive intentions? A trajectory cluster
   analysis.
 publication_types:
-  - "0"
   - "2"
 authors:
   - Michelle L. O’Brien & admin
+author_notes: []
 doi: https://doi.org/10.1186/s12978-024-01899-7
 publication: Reproductive Health
 abstract: Contraceptive intention is an important woman-centered indicator for
@@ -27,6 +27,13 @@ abstract: Contraceptive intention is an important woman-centered indicator for
   methods and downstream implementation.
 draft: false
 featured: true
+tags:
+  - Fertility
+  - Family Planning
+  - Contraception
+  - Global South
+  - Ethiopia
+categories: []
 image:
   filename: featured
   focal_point: Smart
