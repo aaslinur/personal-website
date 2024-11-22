@@ -26,7 +26,7 @@ abstract: With the increasing sophistication of online survey tools and the
   nature of fraud in online research and the importance of multi-pronged
   strategies to detect and limit online survey questionnaire fraud.
 draft: false
-featured: true
+featured: false
 tags:
   - Covid-19
   - Families
