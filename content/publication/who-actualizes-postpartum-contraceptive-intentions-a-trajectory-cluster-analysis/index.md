@@ -1,6 +1,6 @@
 ---
 title: Who actualizes postpartum contraceptive intentions? A trajectory cluster
-  analysis.
+  analysis
 publication_types:
   - "2"
 authors:
