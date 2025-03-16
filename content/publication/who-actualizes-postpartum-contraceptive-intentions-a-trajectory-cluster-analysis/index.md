@@ -27,7 +27,7 @@ abstract: Contraceptive intention is an important woman-centered indicator for
   inform future investments in both upstream development of better contraceptive
   methods and downstream implementation.
 draft: false
-featured: true
+featured: false
 tags:
   - Fertility
   - Family Planning
