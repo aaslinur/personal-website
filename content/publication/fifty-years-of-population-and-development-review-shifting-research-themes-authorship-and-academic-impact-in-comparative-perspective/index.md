@@ -2,11 +2,9 @@
 title: "Fifty Years of Population and Development Review: Shifting Research
   Themes, Authorship, and Academic Impact in Comparative Perspective"
 publication_types:
-  - "0"
   - "2"
 authors:
-  - Ridhi Kashyap
-  - Aasli Abdi Nur
+  - Ridhi Kashyap and admin
 doi: https://doi.org/10.1111/padr.70001
 abstract: To mark the Population and Development Review's (PDR) 50th
   anniversary, we analyze its contributions to the landscape of population
