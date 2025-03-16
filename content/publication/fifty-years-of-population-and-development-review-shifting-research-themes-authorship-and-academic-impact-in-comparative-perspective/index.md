@@ -4,8 +4,11 @@ title: "Fifty Years of Population and Development Review: Shifting Research
 publication_types:
   - "2"
 authors:
-  - Ridhi Kashyap and admin
+  - Ridhi Kashyap
+  - admin
 doi: https://doi.org/10.1111/padr.70001
+publication: Population and Development Review
+publication_short: PDR
 abstract: To mark the Population and Development Review's (PDR) 50th
   anniversary, we analyze its contributions to the landscape of population
   research. We examine the trajectory of research published in PDR and compare
@@ -27,6 +30,7 @@ abstract: To mark the Population and Development Review's (PDR) 50th
   significantly, reaching near parity in recent years.
 draft: false
 featured: false
+tags: []
 image:
   filename: featured
   focal_point: Smart
