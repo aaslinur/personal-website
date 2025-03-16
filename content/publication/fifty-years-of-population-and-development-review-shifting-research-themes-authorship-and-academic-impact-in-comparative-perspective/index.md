@@ -30,7 +30,10 @@ abstract: To mark the Population and Development Review's (PDR) 50th
   significantly, reaching near parity in recent years.
 draft: false
 featured: true
-tags: []
+tags:
+  - Demography
+  - Bibliometric Analysis
+  - Computational Social Science
 image:
   filename: featured
   focal_point: Smart
