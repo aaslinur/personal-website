@@ -43,7 +43,7 @@ tags:
   - Family Planning
   - FP2020
   - Bibliometric Analysis
-  - Sociology of Knowledge
+  - Computational Social Science
   - Global South
 image:
   filename: featured
