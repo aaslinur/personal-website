@@ -49,6 +49,6 @@ Aasli’s research uses computational and demographic methods explore two main a
 
 Prior to joining Oxford, Aasli worked as a Research Scientist in the Institute for Disease Modelling at the Bill & Melinda Gates Foundation. She received her PhD in Sociology from the University of Washington, where she served as a graduate fellow with the [Center for Studies in Demography and Ecology](https://csde.washington.edu/). Aasli holds an MPH from the Rollins School of Public Health at Emory University and a BA from Washington University in St. Louis. 
 
-Her work has been published in the *Journal of Global Health*, *BMJ Global Health*, *Women and Birth*, and the *International Journal of Social Research Methodology*. 
+Her work has been published in *Population and Development Review*, *Reproductive Health*, and *BMJ Global Health*. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
