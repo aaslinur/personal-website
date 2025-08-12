@@ -43,7 +43,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Aasli Abdi Nur**, PhD, MPH, is a Postdoctoral Research Fellow in the [Department of Sociology](https://www.sociology.ox.ac.uk/) at the University of Oxford specializing in Computational Demography. She currently works on the Connecting Generations project with Professor Ridhi Kashyap, studying demographic changes and their implications for kinship and intergenerational overlap, care, and support. In addition to her departmental appointment, she is also a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/academics/).
+**Aasli Abdi Nur**, PhD, MPH, is a Postdoctoral Research Fellow in Computational Demography at the University of Oxford, based in the [Department of Sociology](https://www.sociology.ox.ac.uk/) and the [Leverhulme Centre for Demographic Science](https://www.demography.ox.ac.uk/). She currently works on the Connecting Generations project with Professor Ridhi Kashyap, studying demographic changes and their implications for kinship and intergenerational overlap, care, and support. In addition to her departmental appointment, she is also a Non-Stipendiary Research Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/academics/).
 
 Aasli’s research uses computational and demographic methods explore two main areas of interest. The first focuses on the use individual-level modelling approaches to study gender, fertility, and family dynamics across the life course. The second examines epistemic inequalities in the production and dissemination of scientific knowledge and their impact on demographic research.
 
